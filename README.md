@@ -28,5 +28,9 @@ Estou comprometido com esse aprendizado. Cada commit aqui representa um passo a 
 
 ---
 
+## Conecte-se comigo
+- LinkedIn: [Marcos Camargo](https://www.linkedin.com/in/marcos-camargoaa/)
+- Instagram: [@camargopedroo_](https://www.instagram.com/camargopedroo_/)
+
 Se quiser acompanhar em tempo real, acesse o repositório:
 `https://github.com/MARKAUGUST21/Bootcamp-Santader-2025`
