@@ -1,8 +1,18 @@
 # Oque iremos ver nesse arquivo:
-# Conhecendo metodos uteis da classe str
-# Interpolação de variaveis 
-# Fatiamento de strings
-# Strings de multiplas linhas
+
+
+# Conhecendo metodos uteis da classe str 🐍
+
+# Interpolação de variaveis🐍
+
+# Fatiamento de strings🐍
+
+# Strings de multiplas linhas🐍
+
+
+
+
+
 
 
     ##.upper = Transforma todos os caracteres em maiusculo
@@ -21,4 +31,3 @@
 # Interpolacao de Strings 
     ### Em python temos 3 formas de interpolar as strings, primeira que temos é o sinal %, a segunda é metodo format, e a ultima é f strings.
 
-    
