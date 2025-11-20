@@ -1,13 +1,13 @@
-# Oque iremos ver nesse arquivo:
+## Oque iremos ver nesse arquivo:
 
 
-## Conhecendo metodos uteis da classe str 🐍
+### Conhecendo metodos uteis da classe str 🐍
 
-## Interpolação de variaveis🐍
+### Interpolação de variaveis 🐍
 
-## Fatiamento de strings🐍
+### Fatiamento de strings 🐍
 
-## Strings de multiplas linhas🐍
+### Strings de multiplas linhas 🐍
 
 
 
