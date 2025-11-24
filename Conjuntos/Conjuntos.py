@@ -30,10 +30,10 @@
 # for numero in numeros:
 #     print(numero)
 
-# Unindo conjuntos com .union()
+# # Unindo conjuntos com .union()
 
-set = {1, 2, 3}
-set2 = {4, 5, 6}
+# set = {1, 2, 3}
+# set2 = {4, 5, 6}
 
-set3 = set.union(set2)
-print(set3)
+# set3 = set.union(set2)
+# print(set3)
